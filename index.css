@@ -1,0 +1,31 @@
+body{
+    margin-left: 35%;
+    background-color: bisque;
+margin-top: 10%;
+}
+#color{
+    background-color: aqua;
+    color: chocolate;
+    width: 60%;
+    text-align: center;
+    border: 5px solid black;
+}
+#text{
+    border: 3px solid brown;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
+#text:hover{
+    background-color: black;
+    color: white;
+}
+#mysubmit{
+    background-color: aliceblue;
+    border-radius: 5px;
+    width: 75px;
+}
+#mysubmit:hover{
+background-color: black;
+color: white;
+}
